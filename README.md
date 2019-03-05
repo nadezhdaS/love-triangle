@@ -31,3 +31,4 @@ Write your code in `src/index.js.
 - Run `npm install` in command line
 - Run `npm test` in command line
 - You will see the number of passing and failing tests
+# love-triangle
